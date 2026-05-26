@@ -22,7 +22,7 @@ Com cada vez mais usuarios saindo do Windows e querendo ir para uma distro leve 
   acabou de instalar Linux e se sente perdido nos primeiros passos. A ideia e dar um ponto de partida
   simples, visual e direto, sem esconder o que esta acontecendo por baixo do sistema.
 
-     O ArchHelper nao tenta transformar Linux em Windows. Ele tenta mostrar que Linux pode ser entendido,
+  O ArchHelper nao tenta transformar Linux em Windows. Ele tenta mostrar que Linux pode ser entendido,
   ajustado e usado com seguranca, mesmo por quem ainda nao tem experiencia com terminal.
 
   ## O que ele consegue fazer❓
