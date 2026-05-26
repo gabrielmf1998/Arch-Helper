@@ -2,7 +2,7 @@
 
 ## Como utilizar❓
 **Apenas abra o terminal em sua máquina e execute:**  
-     ```
+     ```bash
      curl -fsSL https://raw.githubusercontent.com/gabrielmf1998/Arch-Helper/main/ArchHelper.sh | bash
      ```
 
