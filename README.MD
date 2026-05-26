@@ -7,18 +7,18 @@
      curl -fsSL https://raw.githubusercontent.com/gabrielmf1998/Arch-Helper/main/ArchHelper.sh | bash
      ```
 
-Com cada vez mais usuarios saindo do Windows e descobrindo o Linux, nasceu o **PosLinux**.
+Com cada vez mais usuarios saindo do Windows e querendo ir para uma distro leve como o Arch, nasceu o **ArchHelper**.
 
   O projeto foi criado por amor ao Arch Linux e pela vontade de ajudar quem ainda nao migrou, ou quem
   acabou de instalar Linux e se sente perdido nos primeiros passos. A ideia e dar um ponto de partida
   simples, visual e direto, sem esconder o que esta acontecendo por baixo do sistema.
 
-  O PosLinux nao tenta transformar Linux em Windows. Ele tenta mostrar que Linux pode ser entendido,
+     O ArchHelper nao tenta transformar Linux em Windows. Ele tenta mostrar que Linux pode ser entendido,
   ajustado e usado com seguranca, mesmo por quem ainda nao tem experiencia com terminal.
 
   ## O que ele consegue fazer❓
 
-  Logo na tela inicial, o PosLinux mostra um resumo do estado atual do sistema:
+  Logo na tela inicial, o ArchHelper mostra um resumo do estado atual do sistema:
 
   - distro, host, kernel em uso e uptime
   - sessao grafica, KDE/Plasma, IPv4 e IPv6 local
@@ -32,7 +32,7 @@ Com cada vez mais usuarios saindo do Windows e descobrindo o Linux, nasceu o **P
   programas populares, liberar firewall, configurar ZeroTier, corrigir problemas do KDE, restaurar GRUB,
   corrigir NTFS dirty, configurar IP fixo ou DHCP e manter o sistema atualizado.
 
-  Antes de executar comandos que alteram o sistema, o PosLinux mostra o que sera feito, mostra o comando
+  Antes de executar comandos que alteram o sistema, o ArchHelper mostra o que sera feito, mostra o comando
   exato e pede confirmacao. Assim o usuario nao apenas clica e espera: ele aprende o que esta sendo
   feito.
 
@@ -42,7 +42,7 @@ Com cada vez mais usuarios saindo do Windows e descobrindo o Linux, nasceu o **P
   do Windows, isso pode parecer dificil no inicio, mas tambem e uma das melhores formas de entender Linux
   de verdade.
 
-  O PosLinux existe para diminuir essa barreira inicial. Ele organiza tarefas importantes, mostra
+  O ArchHelper existe para diminuir essa barreira inicial. Ele organiza tarefas importantes, mostra
   informacoes essenciais do sistema e ajuda o usuario a ganhar confianca para continuar usando Linux.
 
   ## Compatibilidade
