@@ -2,9 +2,8 @@
 
 ## Como utilizar❓
 **Apenas abra o terminal em sua máquina e execute:**  
-   - **Qualquer Distro**: 🚀
      ```
-     curl -fsSL https://raw.githubusercontent.com/gabrielmf1998/PosLinux/main/poslinux.sh | bash
+     curl -fsSL https://raw.githubusercontent.com/gabrielmf1998/Arch-Helper/main/ArchHelper.sh | bash
      ```
 
 Com cada vez mais usuarios saindo do Windows e descobrindo o Linux, nasceu o **PosLinux**.
