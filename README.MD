@@ -53,8 +53,3 @@ Com cada vez mais usuarios saindo do Windows e querendo ir para uma distro leve 
 
   O ArchHelper existe para diminuir essa barreira inicial. Ele organiza tarefas importantes, mostra
   informacoes essenciais do sistema e ajuda o usuario a ganhar confianca para continuar usando Linux.
-
-  ## Compatibilidade
-
-  O script foi escrito em Bash puro e hoje e focado em Arch/KDE, usando ferramentas como pacman, AUR
-  helpers, Flatpak, systemd e NetworkManager.
