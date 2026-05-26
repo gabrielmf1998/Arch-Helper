@@ -12,6 +12,10 @@
      curl -fsSL https://raw.githubusercontent.com/gabrielmf1998/Arch-Helper/main/ArchHelper.sh | bash
      ```
 
+
+## Porque foi Criado❓
+
+
 Com cada vez mais usuarios saindo do Windows e querendo ir para uma distro leve como o Arch, nasceu o **ArchHelper**.
 
   O projeto foi criado por amor ao Arch Linux e pela vontade de ajudar quem ainda nao migrou, ou quem
