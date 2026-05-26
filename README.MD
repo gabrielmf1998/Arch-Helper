@@ -13,7 +13,7 @@
      ```
 
 
-## Porque foi Criado❓
+## Porque foi criado❓
 
 
 Com cada vez mais usuarios saindo do Windows e querendo ir para uma distro leve como o Arch, nasceu o **ArchHelper**.
