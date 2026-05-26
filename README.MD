@@ -1,8 +1,8 @@
 ![Texto alternativo](https://i.ibb.co/Ng3PHPp2/image.png)
 
 ## Como utilizar❓
-**Basta copiar e colar o comando abaixo direto em seu terminal:**  
-   - Arch: 🚀
+**Basta copiar e colar o comando abaixo:**  
+   - Terminal: 🚀
      ```
      curl -fsSL https://raw.githubusercontent.com/gabrielmf1998/Arch-Helper/main/ArchHelper.sh | bash
      ```
