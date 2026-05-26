@@ -1,5 +1,10 @@
 ![Texto alternativo](https://i.ibb.co/Ng3PHPp2/image.png)
 
+## Requisitos 🚨
+
+ Esse script ele e um ponto de partida, ou seja, ele se baseia do fato de voce ja ter instalado o Arch em seu computador
+ com KDE e no momento da instalacao ter selecionado os drivers da Nvidia/AMD/Intel.
+
 ## Como utilizar❓
 **Basta copiar e colar o comando abaixo:**  
    - Terminal: 🚀
