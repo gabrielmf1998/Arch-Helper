@@ -1,5 +1,3 @@
-# Arch-Helper
-
 ![Texto alternativo](https://i.ibb.co/Ng3PHPp2/image.png)
 
 ## Como utilizar❓
@@ -18,7 +16,7 @@ Com cada vez mais usuarios saindo do Windows e descobrindo o Linux, nasceu o **P
   O PosLinux nao tenta transformar Linux em Windows. Ele tenta mostrar que Linux pode ser entendido,
   ajustado e usado com seguranca, mesmo por quem ainda nao tem experiencia com terminal.
 
-  ## O que ele consegue fazer?
+  ## O que ele consegue fazer❓
 
   Logo na tela inicial, o PosLinux mostra um resumo do estado atual do sistema:
 
@@ -38,7 +36,7 @@ Com cada vez mais usuarios saindo do Windows e descobrindo o Linux, nasceu o **P
   exato e pede confirmacao. Assim o usuario nao apenas clica e espera: ele aprende o que esta sendo
   feito.
 
-  ## Por que Arch?
+  ## Por que Arch❓
 
   O foco principal e Arch Linux porque Arch representa liberdade, controle e aprendizado. Para quem vem
   do Windows, isso pode parecer dificil no inicio, mas tambem e uma das melhores formas de entender Linux
